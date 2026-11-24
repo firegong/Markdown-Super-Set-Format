@@ -1,4 +1,4 @@
-# Markdown Super Format
+# Markdown Super Set Format
 
 > **Base standard:** MultiMarkdown 6 (MMD). Syntax not supported by MMD is imported from **Pandoc Markdown → markdown-it → Obsidian** in that order.
 > When the same feature exists in multiple standards, use the one that comes first.
