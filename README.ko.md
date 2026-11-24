@@ -1,4 +1,4 @@
-# 마크다운 수퍼 포맷 (Markdown Super Format)
+# 마크다운 수퍼셋 포맷 (Markdown Super Set Format)
 
 > **기준:** MultiMarkdown 6(MMD)을 기본으로 한다. MMD가 지원하지 않는 문법은 **Pandoc Markdown → markdown-it → Obsidian** 순으로 가져온다.
 > 같은 기능이 여러 곳에 있으면 앞 순서의 문법을 쓴다.
